@@ -1,0 +1,16 @@
+# Ignore large dataset folder (GitHub has 100MB file limits)
+dataset/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & IDEs
+.vscode/
+.idea/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
